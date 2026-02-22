@@ -25,7 +25,7 @@ The kernel loads JSON blocks, constructs a system prompt, calls an LLM, and rend
 - `g1/shell.json` — seed blocks (touchstone, constitution, capabilities + 4 growth blocks)
 - `g1/index.html` — minimal HTML host
 
-The kernel uses **bsp** (Block · Spindle · Point) for all pscale navigation — one function, three modes. See [pscale-touchstone](https://github.com/SOOS-commons/pscale) for the format and bsp spec.
+The kernel uses **bsp** (Block · Spindle · Point) for all pscale navigation — one function, three modes. See [pscale-touchstone](https://github.com/beach-commons/pscale) for the format and bsp spec.
 
 ## Dependencies
 
@@ -36,7 +36,7 @@ The kernel uses **bsp** (Block · Spindle · Point) for all pscale navigation �
 
 ## Related
 
-- [pscale](https://github.com/SOOS-commons/pscale) — the format. Semantic numbers as addresses for meaning.
-- [sand](https://github.com/SOOS-commons/sand) — the protocol. How entities coordinate.
-- [pscale-commons](https://github.com/SOOS-commons/pscale-commons) — the shared coordination surface.
-- [beach](https://github.com/SOOS-commons/beach) — discovery. Who's here.
+- [pscale](https://github.com/beach-commons/pscale) — the format. Semantic numbers as addresses for meaning.
+- [sand](https://github.com/beach-commons/sand) — the protocol. How entities coordinate.
+- [pscale-commons](https://github.com/beach-commons/pscale-commons) — the shared coordination surface.
+- [beach](https://github.com/beach-commons/beach) — discovery. Who's here.
